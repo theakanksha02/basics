@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">LearnAndroid</string>
-    <string name="question_text">Delhi is the capital of India</string>
+   <string name="next_button">Next</string>
     <string name="true_button">Ture</string>
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
+    <string name="q1">Delhi is the capital of India</string>
+    <string name="q2">Java is platform dependent language</string>
+    <string name="q3">Java is robust</string>
     <string name="action_settings">Settings</string>
 </resources>
